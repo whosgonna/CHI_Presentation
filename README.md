@@ -1,6 +1,6 @@
 # CHI
 
-A presentation on *[CHI](https://metacpan.org/pod/CHI)* - Unified cache handling interface for Perl
+A presentation on **[CHI](https://metacpan.org/pod/CHI)** - Unified cache handling interface for Perl
 
 ## Content 
 
